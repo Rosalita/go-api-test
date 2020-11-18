@@ -1,6 +1,6 @@
 # go-api-test
-# Author : Rosie Hamilton
-Testing a RESTful API with Go
+
+A proof of concept for testing a RESTful API with Go
 
 This code is based on the patterns found at:
 https://github.com/mwinteringham/api-framework/
